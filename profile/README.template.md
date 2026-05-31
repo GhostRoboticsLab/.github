@@ -7,36 +7,28 @@
 
      Lives at:  github.com/GhostRoboticsLab/.github  →  profile/README.md
      Aesthetic mirrors ghostlabs.web.app — palette-swappable, same as
-     the site's Tweaks panel. Active palette: Phosphor CRT (phosphor).
+     the site's Tweaks panel. Active palette: {{PALETTE_NAME}}.
 
      Available palettes (run `python3 generate.py` to list):
-       · signal-lime     Signal Lime — lime primary · peach secondary
-       · cobalt          Cobalt Research — institutional blue · sky secondary
-       · phosphor        Phosphor CRT — vintage terminal green · amber secondary
-       · aurora          Aurora Boreal — mint primary · peach · deep navy
-       · tungsten        Tungsten Foundry — brass primary · steel-blue secondary
-       · magenta-static  Magenta Static — magenta × cyan · high-energy punk
-       · sodium          Sodium Vapor — sodium-orange × electric blue
-       · plum-atelier    Plum Atelier — deep plum · brass · sage secondary
-       · bone            Bone & Ink — LIGHT mode · oxblood × forest
+{{PALETTE_LIST}}
      ========================================================= -->
 
 <div align="center">
 
 <!-- Header band: accent text on the palette's near-black background -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050807,100:0e1611&height=190&section=header&text=GHOSTLABS&fontColor=5cff95&fontSize=62&fontAlignY=44&desc=An%20independent%20engineering%20firm&descSize=16&descAlignY=66" width="100%" alt="GhostLabs" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:{{BG}},100:{{BG2}}&height=190&section=header&text=GHOSTLABS&fontColor={{ACCENT}}&fontSize=62&fontAlignY=44&desc=An%20independent%20engineering%20firm&descSize=16&descAlignY=66" width="100%" alt="GhostLabs" />
 
 <!-- Monospace typing tagline -->
 <a href="https://ghostlabs.web.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=5cff95&background=050807&center=true&vCenter=true&width=720&height=46&lines=Bespoke+software%2C+intelligence%2C+and+systems;Engineered+end-to-end;Brief+through+to+shipped+product" alt="Bespoke software, intelligence, and systems — engineered end-to-end" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color={{ACCENT}}&background={{BG}}&center=true&vCenter=true&width=720&height=46&lines=Bespoke+software%2C+intelligence%2C+and+systems;Engineered+end-to-end;Brief+through+to+shipped+product" alt="Bespoke software, intelligence, and systems — engineered end-to-end" />
 </a>
 
 <br/><br/>
 
-<a href="https://ghostlabs.web.app/"><img src="https://img.shields.io/badge/●_Accepting_requests-2026-5cff95?style=flat-square&labelColor=050807" alt="Accepting requests · 2026" /></a>
-<a href="https://ghostlabs.web.app/"><img src="https://img.shields.io/badge/Website-ghostlabs.web.app-d6f5e1?style=flat-square&labelColor=050807&logo=firefox&logoColor=5cff95" alt="Website" /></a>
-<a href="mailto:ghostlabsoftware@gmail.com"><img src="https://img.shields.io/badge/Contact-ghostlabsoftware@gmail.com-d6f5e1?style=flat-square&labelColor=050807&logo=gmail&logoColor=5cff95" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Hosted-europe--west3-7ea88c?style=flat-square&labelColor=050807&logo=googlecloud&logoColor=5cff95" alt="europe-west3" />
+<a href="https://ghostlabs.web.app/"><img src="https://img.shields.io/badge/●_Accepting_requests-2026-{{ACCENT}}?style=flat-square&labelColor={{BG}}" alt="Accepting requests · 2026" /></a>
+<a href="https://ghostlabs.web.app/"><img src="https://img.shields.io/badge/Website-ghostlabs.web.app-{{TEXT}}?style=flat-square&labelColor={{BG}}&logo=firefox&logoColor={{ACCENT}}" alt="Website" /></a>
+<a href="mailto:ghostlabsoftware@gmail.com"><img src="https://img.shields.io/badge/Contact-ghostlabsoftware@gmail.com-{{TEXT}}?style=flat-square&labelColor={{BG}}&logo=gmail&logoColor={{ACCENT}}" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Hosted-europe--west3-{{DIM}}?style=flat-square&labelColor={{BG}}&logo=googlecloud&logoColor={{ACCENT}}" alt="europe-west3" />
 
 </div>
 
@@ -84,10 +76,10 @@ every active project.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/4-nodes-5cff95?style=flat-square&labelColor=050807" alt="4 nodes" />
-<img src="https://img.shields.io/badge/1.3_TB-unified_memory-d6f5e1?style=flat-square&labelColor=050807" alt="1.3 TB" />
-<img src="https://img.shields.io/badge/M3_Ultra-silicon-d6f5e1?style=flat-square&labelColor=050807" alt="M3 Ultra" />
-<img src="https://img.shields.io/badge/24%2F7-uptime-ffce5c?style=flat-square&labelColor=050807" alt="24/7" />
+<img src="https://img.shields.io/badge/4-nodes-{{ACCENT}}?style=flat-square&labelColor={{BG}}" alt="4 nodes" />
+<img src="https://img.shields.io/badge/1.3_TB-unified_memory-{{TEXT}}?style=flat-square&labelColor={{BG}}" alt="1.3 TB" />
+<img src="https://img.shields.io/badge/M3_Ultra-silicon-{{TEXT}}?style=flat-square&labelColor={{BG}}" alt="M3 Ultra" />
+<img src="https://img.shields.io/badge/24%2F7-uptime-{{ACCENT2}}?style=flat-square&labelColor={{BG}}" alt="24/7" />
 
 </div>
 
@@ -101,13 +93,13 @@ is our own research and the tools we're explicitly cleared to show.
 <div align="center">
 
 <a href="https://github.com/GhostRoboticsLab/GRv1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=GRv1&bg_color=050807&title_color=5cff95&icon_color=5cff95&text_color=d6f5e1&border_color=1a241e&border_radius=4" alt="GRv1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=GRv1&bg_color={{BG}}&title_color={{ACCENT}}&icon_color={{ACCENT}}&text_color={{TEXT}}&border_color={{LINE}}&border_radius=4" alt="GRv1" />
 </a>
 <a href="https://github.com/GhostRoboticsLab/nanochatGL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=nanochatGL&bg_color=050807&title_color=5cff95&icon_color=5cff95&text_color=d6f5e1&border_color=1a241e&border_radius=4" alt="nanochatGL" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=nanochatGL&bg_color={{BG}}&title_color={{ACCENT}}&icon_color={{ACCENT}}&text_color={{TEXT}}&border_color={{LINE}}&border_radius=4" alt="nanochatGL" />
 </a>
 <a href="https://github.com/GhostRoboticsLab/IndianMarketBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=IndianMarketBot&bg_color=050807&title_color=5cff95&icon_color=5cff95&text_color=d6f5e1&border_color=1a241e&border_radius=4" alt="IndianMarketBot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=IndianMarketBot&bg_color={{BG}}&title_color={{ACCENT}}&icon_color={{ACCENT}}&text_color={{TEXT}}&border_color={{LINE}}&border_radius=4" alt="IndianMarketBot" />
 </a>
 
 </div>
@@ -141,7 +133,7 @@ research-grade work shipped to production.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1611,100:050807&height=90&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:{{BG2}},100:{{BG}}&height=90&section=footer" width="100%" alt="" />
 
 <sub>`© GHOSTLABS SOFTWARE LAB · EUROPE-WEST3` &nbsp;·&nbsp; This page surfaces only what we are cleared to show.</sub>
 
