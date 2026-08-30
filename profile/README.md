@@ -92,30 +92,6 @@ every active project.
 
 ---
 
-## `◇ SELECTED WORK`
-
-Client repositories never appear here — most of what we build stays private. Pinned below
-is our own research and the tools we're explicitly cleared to show.
-
-<div align="center">
-
-<a href="https://github.com/GhostRoboticsLab/GRv1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=GRv1&bg_color=050807&title_color=5cff95&icon_color=5cff95&text_color=d6f5e1&border_color=1a241e&border_radius=4" alt="GRv1" />
-</a>
-<a href="https://github.com/GhostRoboticsLab/nanochatGL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=nanochatGL&bg_color=050807&title_color=5cff95&icon_color=5cff95&text_color=d6f5e1&border_color=1a241e&border_radius=4" alt="nanochatGL" />
-</a>
-<a href="https://github.com/GhostRoboticsLab/IndianMarketBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostRoboticsLab&repo=IndianMarketBot&bg_color=050807&title_color=5cff95&icon_color=5cff95&text_color=d6f5e1&border_color=1a241e&border_radius=4" alt="IndianMarketBot" />
-</a>
-
-</div>
-
-> **GRv1** — our robotics platform · **nanochatGL** — training capable LLMs on a budget ·
-> **IndianMarketBot** — async strategy core + live dashboard for systematic trading.
-
----
-
 ## `◇ HOW WE PRACTISE`
 
 **Four commitments we make to every engagement.**
