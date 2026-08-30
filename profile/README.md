@@ -6,7 +6,7 @@
          python3 generate.py <palette>
 
      Lives at:  github.com/GhostRoboticsLab/.github  →  profile/README.md
-     Aesthetic mirrors ghostlabs.web.app — palette-swappable, same as
+     Aesthetic mirrors ghostlabs.click — palette-swappable, same as
      the site's Tweaks panel. Active palette: Phosphor CRT (phosphor).
 
      Available palettes (run `python3 generate.py` to list):
@@ -27,14 +27,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050807,100:0e1611&height=190&section=header&text=GHOSTLABS&fontColor=5cff95&fontSize=62&fontAlignY=44&desc=An%20independent%20engineering%20firm&descSize=16&descAlignY=66" width="100%" alt="GhostLabs" />
 
 <!-- Monospace typing tagline -->
-<a href="https://ghostlabs.web.app/">
+<a href="https://ghostlabs.click/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=5cff95&background=050807&center=true&vCenter=true&width=720&height=46&lines=Bespoke+software%2C+intelligence%2C+and+systems;Engineered+end-to-end;Brief+through+to+shipped+product" alt="Bespoke software, intelligence, and systems — engineered end-to-end" />
 </a>
 
 <br/><br/>
 
-<a href="https://ghostlabs.web.app/"><img src="https://img.shields.io/badge/●_Accepting_requests-2026-5cff95?style=flat-square&labelColor=050807" alt="Accepting requests · 2026" /></a>
-<a href="https://ghostlabs.web.app/"><img src="https://img.shields.io/badge/Website-ghostlabs.web.app-d6f5e1?style=flat-square&labelColor=050807&logo=firefox&logoColor=5cff95" alt="Website" /></a>
+<a href="https://ghostlabs.click/"><img src="https://img.shields.io/badge/Website-ghostlabs.click-d6f5e1?style=flat-square&labelColor=050807&logo=firefox&logoColor=5cff95" alt="Website" /></a>
 <a href="mailto:ghostlabsoftware@gmail.com"><img src="https://img.shields.io/badge/Contact-ghostlabsoftware@gmail.com-d6f5e1?style=flat-square&labelColor=050807&logo=gmail&logoColor=5cff95" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Hosted-europe--west3-7ea88c?style=flat-square&labelColor=050807&logo=googlecloud&logoColor=5cff95" alt="europe-west3" />
 
@@ -137,12 +136,12 @@ is our own research and the tools we're explicitly cleared to show.
 We take on custom engineering — software, intelligence, and hardware — for teams that want
 research-grade work shipped to production.
 
-**[🌐 ghostlabs.web.app](https://ghostlabs.web.app/)** &nbsp;·&nbsp; **[✉️ ghostlabsoftware@gmail.com](mailto:ghostlabsoftware@gmail.com)**
+**[🌐 ghostlabs.click](https://ghostlabs.click/)** &nbsp;·&nbsp; **[✉️ ghostlabsoftware@gmail.com](mailto:ghostlabsoftware@gmail.com)**
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1611,100:050807&height=90&section=footer" width="100%" alt="" />
 
-<sub>`© GHOSTLABS SOFTWARE LAB · EUROPE-WEST3` &nbsp;·&nbsp; This page surfaces only what we are cleared to show.</sub>
+<sub>`© GHOSTLABS SOFTWARE LAB · EUROPE-WEST3` &nbsp;·&nbsp;</sub>
 
 </div>
