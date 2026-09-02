@@ -28,6 +28,14 @@ The 9 palettes mirror the Tweaks panel on `ghostlabs.web.app` (its `PALETTES` ma
 theme, just re-run with a different palette key. There is no other build, test, lint, or
 CI step; the rendered result is only visible on the org's GitHub landing page.
 
+## Org-wide default files (inherited by every GhostRoboticsLab repo)
+
+Besides the profile README, this repo holds GitHub's *default community health files*
+(added 2 Sep 2026): `SECURITY.md`, `.github/ISSUE_TEMPLATE/{bug_report,feature_request,config}.yml`
+and `.github/PULL_REQUEST_TEMPLATE.md`. GitHub applies them to every org repository, public
+or private, that has no file of the same type of its own (Hackagotchi and Hermes keep their
+own). They must stay at these paths; CODEOWNERS is not inheritable and lives per repo.
+
 ## Working with the README
 
 The README is presentation-heavy HTML-in-Markdown driven by external image services.
