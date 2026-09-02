@@ -1,0 +1,41 @@
+name: 🐞 Bug report
+description: Something does not work as documented
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version / commit
+      placeholder: "e.g. v1.6.0, build-25, or a commit SHA"
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "e.g. Android 15 on a Pixel 8, macOS 15.5, Ubuntu 24.04, board revision"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      render: text
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and did not find a duplicate.

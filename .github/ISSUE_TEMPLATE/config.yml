@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/GhostRoboticsLab/.github/blob/main/SECURITY.md
+    about: Private reporting instructions. Please do not file security problems as public issues.
+  - name: 🌐 GhostLabs
+    url: https://ghostlabs.web.app/
+    about: Website and contact for anything that is neither a bug nor a feature request.
